@@ -1,3 +1,7 @@
+//DEVELOPER Janki Khatri
+// IS117-002
+// Spring 2020
+
 let slideIndex = 0;
 carousel();
 
